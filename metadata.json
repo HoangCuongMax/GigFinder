@@ -1,0 +1,5 @@
+{
+  "name": "GigFinder",
+  "description": "An Uber-like web application for casual workers to find and accept on-demand jobs. It uses AI to generate random job opportunities in real-time.",
+  "requestFramePermissions": []
+}
